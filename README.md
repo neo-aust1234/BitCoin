@@ -12,6 +12,9 @@
 
 [https://coinmarketcap.com/all/views/all/#JPY](https://coinmarketcap.com/all/views/all/#JPY)
 
+<img src="marketcap.png" alt="marketcap" title="marketcap">
+<br>
+
 ![marketcap.png](https://github.com/neo-aust1234/BitCoin/blob/master/marketcap.png)
 2017年7月22日現在
 
