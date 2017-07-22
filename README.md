@@ -1,6 +1,3 @@
-# BitCoin
-ああああ
-
 最近、ニュースで取り上げられるビットコインですが、その取引を始める方法はいくつかあります。
 その方法を大きく分けて２つ紹介したいと思います。
 
@@ -11,7 +8,7 @@
 図は現在のビットコインとその他の主要な仮想通貨の価格一覧がこちらになります。
 https://coinmarketcap.com/all/views/all/#JPY
 
-![marketcap.png](http://)
+![marketcap.png](https://github.com/neo-aust1234/BitCoin/blob/master/marketcap.png)
 2017年7月22日現在
 
 Market Capとは時価総額のことでビットコインが断トツ１位の約５兆円という状況です。
@@ -26,7 +23,7 @@ Circulating Supplyとは貨幣供給量のことで、貨幣供給量と価格�
 図は現在のビットコインのマイニングプールの分布図となります。
 https://blockchain.info/ja/pools
 
-![mining pools.png](http://)
+![mining pools.png](https://github.com/neo-aust1234/BitCoin/blob/master/mining pools.png)
 2017年7月22日現在
 
 マイニングプールでは、日々ビットコインの取引をコンピュータを使って計算しています。
