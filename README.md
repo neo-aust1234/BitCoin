@@ -1,3 +1,4 @@
+<a href="https://bitflyer.jp?bf=guch4nsn" target="_blank"><img src="https://bitflyer.jp/Images/Affiliate/affi_04_468x60.gif?201612" alt="bitFlyer ビットコインを始めるなら安心・安全な取引所で"></a>
 
 最近、ニュースで取り上げられるビットコインですが、その取引を始める方法はいくつかあります。
 その方法を大きく分けて２つ紹介したいと思います。
@@ -46,5 +47,4 @@ Circulating Supplyとは貨幣供給量のことで、貨幣供給量と価格�
 今年は、仮想通貨元年といわれるぐらいビットコインの注目が高まっています。  
 興味を持たれた方は、ぜひビットコインの取引を始めてみてはいかがでしょうか？
 
-<br>
-<a href="https://bitflyer.jp?bf=guch4nsn" target="_blank"><img src="https://bitflyer.jp/Images/Affiliate/affi_04_468x60.gif?201612" alt="bitFlyer ビットコインを始めるなら安心・安全な取引所で"></a>
+
