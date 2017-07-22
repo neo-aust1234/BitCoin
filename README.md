@@ -48,4 +48,4 @@ Circulating Supplyとは貨幣供給量のことで、貨幣供給量と価格�
 興味を持たれた方は、ぜひビットコインの取引を始めてみてはいかがでしょうか？
 
 <br>
-バナー広告の予定
+<a href="https://bitflyer.jp?bf=guch4nsn" target="_blank"><img src="https://bitflyer.jp/Images/Affiliate/affi_04_468x60.gif?201612" alt="bitFlyer ビットコインを始めるなら安心・安全な取引所で"></a>
