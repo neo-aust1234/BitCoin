@@ -9,6 +9,7 @@
 
 
 図は現在のビットコインとその他の主要な仮想通貨の価格一覧がこちらになります。
+
 [https://coinmarketcap.com/all/views/all/#JPY](https://coinmarketcap.com/all/views/all/#JPY)
 
 ![marketcap.png](https://github.com/neo-aust1234/BitCoin/blob/master/marketcap.png)
@@ -25,6 +26,7 @@ Circulating Supplyとは貨幣供給量のことで、貨幣供給量と価格�
 ビットコインは取引所で購入するだけでなく、マイニング（採掘）という方法で、手に入れることができます。
 
 図は現在のビットコインのマイニングプールの分布図となります。
+
 [https://blockchain.info/ja/pools](https://blockchain.info/ja/pools)
 
 
