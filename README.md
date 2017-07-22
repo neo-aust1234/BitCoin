@@ -22,10 +22,12 @@ Circulating Supplyとは貨幣供給量のことで、貨幣供給量と価格�
 近年では、Ethereum（イーサリアム）の上昇率も目立っています。  
 
 <br>
+
 ## ビットコインをマイニング（採掘）する
 
 ビットコインは取引所で購入するだけでなく、マイニング（採掘）という方法で、手に入れることができます。
 
+<br>
 図は現在のビットコインのマイニングプールの分布図となります。
 
 [https://blockchain.info/ja/pools](https://blockchain.info/ja/pools)
