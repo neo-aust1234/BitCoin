@@ -52,3 +52,5 @@ Circulating Supplyとは貨幣供給量のことで、貨幣供給量と価格�
 
 
 <a href="http://bitclub.bz/daisaku159"><img src="https://bitclubnetwork.com/banner1/b1-468x60.gif" width="468" height="60" border="0"></a>
+
+https://bitclubnetwork.com/daisaku159/signup.html
