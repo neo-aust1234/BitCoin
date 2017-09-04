@@ -50,6 +50,4 @@ Circulating Supplyとは貨幣供給量のことで、貨幣供給量と価格�
 今年は、仮想通貨元年といわれるぐらいビットコインの注目が高まっています。  
 興味を持たれた方は、ぜひビットコインの取引を始めてみてはいかがでしょうか？
 
-
-<a href="http://bitclub.bz/daisaku159"><img src="https://bitclubnetwork.com/banner1/b1-468x60.gif" width="468" height="60" border="0"></a>
-<a href="http://bitclub.bz/daisaku159"><img src="chk_jschl.gif" alt="chk_jschl" title="chk_jschl">
+<a href="http://bitclub.bz/daisaku159"><img src="chk_jschl.gif" alt="chk_jschl" title="chk_jschl"></a>
